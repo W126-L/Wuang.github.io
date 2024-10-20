@@ -1,0 +1,16 @@
+Package: ch.xxtou.hudapp.jb
+Version: 1.12.0
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 428
+Depends: firmware (>= 14.0)
+Filename: ./ch.xxtou.hudapp.jb_1.12.0_iphoneos-arm.deb
+Size: 133344
+MD5sum: 657f9715dd5af863fb93e04db9da87c6
+SHA1: 8a3025a3a8c5c2f55a095ed76ba63d2362dd723b
+SHA256: fae2827cf6f46fcc18fc02cc504a74f94434fc9856c37a7cee707ff77991356d
+Section: Tweaks
+Description: Troll your speed, but jailbroken.
+Author: Lessica <82flex@gmail.com>
+Name: TrollSpeed JB
+
