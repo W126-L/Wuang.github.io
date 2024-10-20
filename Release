@@ -1,1 +1,15 @@
-Wuang:越狱源仓库
+Origin:Wuang
+
+Label:Wuang's repo
+
+Suite:stable
+
+Version:1.0
+
+Codename:ios
+
+Architectures:iphoneos-arm64
+
+Components:main
+
+Description:Wuang的自用越狱源仓库
